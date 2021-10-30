@@ -1,1 +1,1 @@
-Log Collection by golangd
+Log Collection by golang
