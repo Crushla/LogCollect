@@ -4,16 +4,23 @@ go 1.17
 
 require (
 	github.com/Shopify/sarama v1.30.0
+	github.com/go-ini/ini v1.63.2
 	github.com/hpcloud/tail v1.0.0
+	github.com/sirupsen/logrus v1.8.1
+	go.etcd.io/etcd v2.3.8+incompatible
 )
 
 require (
+	github.com/coreos/etcd v2.3.8+incompatible // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
+	github.com/google/go-cmp v0.5.5 // indirect
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
 	github.com/jcmturner/aescts/v2 v2.0.0 // indirect
 	github.com/jcmturner/dnsutils/v2 v2.0.0 // indirect
